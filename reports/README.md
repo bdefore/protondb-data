@@ -1,0 +1,1 @@
+NOTE: The contribute workflow changed to a questionnaire on October 28, 2019, and this changed the structure of data exports beginning with the December 2, 2019 export. For the full set of reports, combine the two.
